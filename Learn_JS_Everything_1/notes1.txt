@@ -1,0 +1,48 @@
+Video --> Js Learn Everything
+
+It's the video that your search for JS completely over here. If it's your first video you dont'need to watch the other videos. It is the promise to you.
+If you already watch many than you don't need to watch other videos
+
+Main Goal is to crate a tutiorial in North India that's not avialabe till now , put all the experience in this video . Help to build logic most of the people face that problem
+
+Mindest:
+
+ I know the function and loop but not able to write code inside it that problem we solve it.
+
+ JavaScript :
+
+ If you learn already or learning for the first time
+
+ Pre-requisties Section:
+
+ Install the VSCode from the google and nodejs to run the JS on the IDE.
+
+ Create folder inside the VSCode and create 2 files 
+ 1. index.html
+ 2. script.Js
+
+ After that write boiler plate code in the index.html file then with the help of script tag coneect the JS
+
+// JS History
+
+//words vs keyword
+keyword --> predefined meaning like (var,const,let) special word which has meaning we can do in JS
+word --> which has no special meaning in JS
+
+//variable
+
+In Atm machine example when transaction happen that machine can remember our data in variables until transaction complete.
+
+var -- Es5
+let -value change in fututre like score in game
+const -- like pi value that fixed or account no
+
+Section-1
+
+// Browser based JavaScript
+
+// Practical video 
+
+
+
+
