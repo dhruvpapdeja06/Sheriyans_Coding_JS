@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html,body {
+            width: 100%;
+            height: 100%;
+        }
+
+        body{
+            overflow: hidden;
+            position: relative;
+        }
+
+
+        #hover{
+            position: absolute;
+            transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
+            margin-top: 20px;
+            margin-left: 20px;
+            height: 200px;
+            width: 200px;
+            border-radius: 100px;
+            background-color: red;
+
+        }
+
+        form{
+            margin-top : 1rem;
+            margin-left: .5rem;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="main">
+        <div id="hover"></div>
+        
+        <!-- <form>
+            <input type="email" placeholder="email">
+            <input type="password" placeholder="password">
+            <input type="submit">
+        </form> -->
+    </div>
+
+    <script src="event2.js"></script>
+    
+</body>
+</html>
